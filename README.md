@@ -1,2 +1,2 @@
 # aws
-Brief description on linking git with aws
+Brief description on linking jenkins with aws
